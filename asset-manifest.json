@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FotosRouter/static/css/main.f5372633.chunk.css",
+    "main.js": "/FotosRouter/static/js/main.bf7515f4.chunk.js",
+    "main.js.map": "/FotosRouter/static/js/main.bf7515f4.chunk.js.map",
+    "runtime-main.js": "/FotosRouter/static/js/runtime-main.44496d72.js",
+    "runtime-main.js.map": "/FotosRouter/static/js/runtime-main.44496d72.js.map",
+    "static/js/2.f2b4f1a1.chunk.js": "/FotosRouter/static/js/2.f2b4f1a1.chunk.js",
+    "static/js/2.f2b4f1a1.chunk.js.map": "/FotosRouter/static/js/2.f2b4f1a1.chunk.js.map",
+    "index.html": "/FotosRouter/index.html",
+    "static/css/main.f5372633.chunk.css.map": "/FotosRouter/static/css/main.f5372633.chunk.css.map",
+    "static/js/2.f2b4f1a1.chunk.js.LICENSE.txt": "/FotosRouter/static/js/2.f2b4f1a1.chunk.js.LICENSE.txt",
+    "static/media/ariel.a793d3d1.png": "/FotosRouter/static/media/ariel.a793d3d1.png",
+    "static/media/neegrila.85278541.png": "/FotosRouter/static/media/neegrila.85278541.png",
+    "static/media/rosa.938586be.png": "/FotosRouter/static/media/rosa.938586be.png",
+    "static/media/tomjerry.1b2f3375.png": "/FotosRouter/static/media/tomjerry.1b2f3375.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44496d72.js",
+    "static/js/2.f2b4f1a1.chunk.js",
+    "static/css/main.f5372633.chunk.css",
+    "static/js/main.bf7515f4.chunk.js"
+  ]
+}
